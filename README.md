@@ -2,10 +2,10 @@
 
 **CS Student @ Washington State University | Machine Learning Engineer | Computer Vision**
 
-🎓 Graduating May 2026  
-🔭 Currently working on: Computer vision systems for agricultural quality assessment  
+🎓 Graduated May 2026  
+🔭 Worked On: Computer vision systems for agricultural quality assessment  
 🌱 Learning: Advanced object detection, multiprocessing optimization, MLOps  
-💼 Looking for: ML/Computer Vision Engineer roles starting May 2026
+💼 Looking for: ML/Computer Vision Engineer roles 
 
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
