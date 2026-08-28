@@ -1,6 +1,6 @@
 # Hi, I'm Aden 
 
-**CS Student @ Washington State University | Machine Learning Engineer | Computer Vision**
+**CS Grad | Machine Learning Engineer | Computer Vision**
 
 🎓 Graduated May 2026  
 🔭 Worked On: Computer vision systems for agricultural quality assessment  
