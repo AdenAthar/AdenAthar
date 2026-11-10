@@ -37,4 +37,4 @@ Rebuilt a live golf-tech product with OTP auth, revocable sessions, and database
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:adenathar72@gmail.com)
 
 ---
-🗣️ Fun fact: I speak English, Urdu, and Shina!
+🗣️ Fun fact: I speak English, Urdu, and Shina! And lived long-term on 3 different continents.
